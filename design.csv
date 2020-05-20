@@ -1,0 +1,9 @@
+group,replicate,fastq_1,fastq_2,antibody,control
+WT_input,1,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490610_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490610_2.fastq.gz,,
+WT_input,2,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490614_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490614_2.fastq.gz,,
+WT_H3K9me3,1,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490607_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490607_2.fastq.gz,H3K9me3,WT_input
+WT_H3K9me3,2,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490611_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490611_2.fastq.gz,H3K9me3,WT_input
+K9M_input,1,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490616_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490616_2.fastq.gz,,
+K9M_input,2,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490618_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490618_2.fastq.gz,,
+K9M_H3K9me3,1,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490615_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490615_2.fastq.gz,H3K9me3,K9M_input
+K9M_H3K9me3,2,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490617_1.fastq.gz,/scratch/Users/alsw5948/JB_K-M/JB_K9M_chip/fastq/SRR8490617_2.fastq.gz,H3K9me3,K9M_input
