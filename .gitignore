@@ -1,0 +1,16 @@
+*.gtf
+.Rprohistory 
+.Rproj.user 
+.RData 
+.Ruserdata 
+*.bam 
+*.pdf 
+*.Rproj 
+*results* 
+*figures*
+*bam* 
+*.tmp 
+*html 
+*.bed 
+*_rslurm*
+*.chain
